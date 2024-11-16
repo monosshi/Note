@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="custom_listview">Custom ListView</string>
+    <string name="expandable_listview">Expandable ListView</string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="grapes">Grapes</string>
+    <string name="list_of_fruits">List of Fruits</string>
+    <string name="show_in_detail_fruits">Show in detail fruits</string>
+    <string name="fruit_groups">Fruit Groups</string>
+</resources>

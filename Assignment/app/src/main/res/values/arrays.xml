@@ -1,0 +1,25 @@
+<resources>
+    <string-array name="fruit_groups">
+        <item>Citrus Fruits</item>
+        <item>Berry Fruits</item>
+        <item>Tropical Fruits</item>
+    </string-array>
+
+    <string-array name="citrus_fruits">
+        <item>Orange</item>
+        <item>Lemon</item>
+        <item>Lime</item>
+    </string-array>
+
+    <string-array name="berry_fruits">
+        <item>Strawberry</item>
+        <item>Blueberry</item>
+        <item>Raspberry</item>
+    </string-array>
+
+    <string-array name="tropical_fruits">
+        <item>Mango</item>
+        <item>Pineapple</item>
+        <item>Banana</item>
+    </string-array>
+</resources>
